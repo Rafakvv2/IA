@@ -1,26 +1,16 @@
-| Aplicativo | Tempo por dia | Tempo por semana |
-|---|---|---|
-| eFootball™ | 1 h 19 min | 9 h 13 min |
-| WhatsApp | 1 h 11 min | 8 h 17 min |
-| FC Mobile | 33 min | 3 h 51 min |
-| Brawl Stars | 24 min | 2 h 48 min |
-| Netflix | 23 min | 2 h 41 min |
-| Instagram | 21 min | 2 h 27 min |
-| Offline Games | 17 min | 1 h 59 min |
-| Clash Royale | 15 min | 1 h 45 min |
-| Chrome | 10 min | 1 h 10 min |
-| Fotos | 9 min | 1 h 03 min |
-| Relógio | 9 min | 1 h 03 min |
-| MuseLab - AI Photo Generator | 7 min | 49 min |
-| Aloha | 6 min | 42 min |
-| Escola Parana | 5 min | 35 min |
-| Coromon | 4 min | 28 min |
-| Google | 3 min | 21 min |
-| Spotify | 2 min | 14 min |
-| Color Widgets | 2 min | 14 min |
-| Canva | 2 min | 14 min |
-| Instagram Lite | 2 min | 14 min |
-| Meet | 1 min | 7 min |
-| Stickman Party | 1 min | 7 min |
-| ASolver | 1 min | 7 min |
-| TOTAL | 5 h 47 min / dia | 40 h 29 min / semana |
+**O seu pai está sugerindo fazer a proteção de propriedade intelectual do jogo Tadeu para evitar que outras pessoas copiem o projeto, usem seus elementos visuais ou registrem o nome da marca antes dele.**
+
+**O que pode (e o que não pode) ser protegido:**
+*Ideias abstratas não têm dono: Pela lei, ninguém pode registrar uma ideia genérica ou uma mecânica de jogo (por exemplo: "um jogo de sobrevivência em uma ilha com monstros").*
+
+**A execução concreta é protegida: O que se registra é o trabalho pronto — o código-fonte, o nome, a história, as artes visuais e as músicas.**
+
+Como funciona a proteção no Brasil
+| Elemento do Jogo | Tipo de Proteção | Onde Registrar | O que Garante |
+|---|---|---|---|
+| Nome do Jogo / Estúdio | Registro de Marca | INPI | Impede que terceiros lancem produtos usando o mesmo nome ou parecidos. |
+| Código-Fonte | Programa de Computador | INPI | Protege a programação do jogo contra cópia direta de código. |
+| Arte, História e Trilha | Direitos Autorais | Biblioteca Nacional | Prova a autoria das ilustrações, roteiro, personagens e músicas. |
+
+**Por que o conselho dele faz sentido**
+*Embora o direito autoral sobre artes e textos exista a partir do momento em que você os cria, provar que você criou primeiro pode ser difícil sem registros formais. Ter o registro no INPI ou na Biblioteca Nacional serve como prova jurídica indiscutível de anterioridade. Isso facilita derrubar plágios em lojas digitais (como Steam, Google Play ou App Store) e tomar medidas legais caso alguém tente se apropriar do seu trabalho.*
